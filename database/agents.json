@@ -1,0 +1,62 @@
+{
+  "111": {
+    "sid": "111",
+    "discordId": "1059856799269912636",
+    "name": "Lorenzo Darkside",
+    "rank": 9,
+    "joinDate": "2025-11-18",
+    "invitedBySid": null,
+    "blacklist": false,
+    "left": null
+  },
+  "184725": {
+    "sid": "184725",
+    "discordId": "1395045781769031680",
+    "name": "Veco Darkside",
+    "rank": 9,
+    "joinDate": "2025-11-18",
+    "invitedBySid": "184725",
+    "blacklist": false,
+    "left": null
+  },
+  "green": {
+    "sid": "green",
+    "discordId": "498848308085784577",
+    "name": "Cody Darkside",
+    "rank": 8,
+    "joinDate": "2025-11-18",
+    "invitedBySid": "184725",
+    "blacklist": false,
+    "left": null
+  },
+  "sheldon": {
+    "sid": "sheldon",
+    "discordId": "1394608076786761788",
+    "name": "Sheldon Darkside",
+    "rank": 7,
+    "joinDate": "2025-11-18",
+    "invitedBySid": "184725",
+    "blacklist": false,
+    "left": null
+  },
+  "bot-deko": {
+    "sid": "bot-deko",
+    "discordId": "1438556237934493849",
+    "name": "Deko Darkside",
+    "rank": 1,
+    "joinDate": "2025-11-18",
+    "invitedBySid": "184725",
+    "blacklist": true,
+    "left": "done by dark"
+  },
+  "kollie": {
+    "sid": "kollie",
+    "discordId": "1203386360753295506",
+    "name": "Kollie Darkside",
+    "rank": 1,
+    "joinDate": "2025-11-18",
+    "invitedBySid": "184725",
+    "blacklist": false,
+    "left": null
+  }
+}
